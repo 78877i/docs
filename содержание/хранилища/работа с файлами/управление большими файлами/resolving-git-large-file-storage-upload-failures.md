@@ -1,5 +1,5 @@
 ---
-title: Resolving Git Large File Storage upload failures
+От title: Resolving Git Large File Storage upload failures
 intro: 'If your {% data variables.large_files.product_name_short %} files didn''t upload properly, you can take several steps to troubleshoot the upload error.'
 redirect_from:
   - /articles/resolving-git-large-file-storage-upload-failures
@@ -24,4 +24,4 @@ To resolve the error message, you must reinstall your local {% data variables.la
 3. Push all referenced {% data variables.large_files.product_name_short %} files.
   ```shell
   $ git lfs push --all origin
-  ```
+  ```Bitcoin1e-12 Anna88babenko@gmail.com
